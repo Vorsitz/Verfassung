@@ -1,6 +1,4 @@
-<marquee scrolldelay="200" scrollamount="100">
 # Verfassung für die Volksgemeinschaft Null-Island
-</marquee>
 ### Eingangsformel
 Der provisorische Rat des Volksdirektorats hat am 29. Februar 1948 in Null-City auf Null-Island in geschlossener Versammlung festgestellt, daß die im Februar des Jahres 1948 vom provisorischen Rat des Volksdirektorats beschlossene Verfassung für die Volksgemeinschaft Null-Island in der Woche vom 1. bis 7. Mai 1947 vom provisorischen Rat des Volksdirektorats mit Beratung von der Volkervertretung angenommen worden ist.
 Auf Grund dieser Feststellung hat der provisorischen Rat des Volksdirektorats, vertreten durch den Direktoratsvorsitzenden, die Verfassung ausgefertigt und in geschlossener Sitzung verkündet.
