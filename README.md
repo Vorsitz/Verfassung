@@ -117,7 +117,7 @@ Die Null-Islander in den Ländern Null-Nord, Null-Süd, Null-Ost und Null-West h
 3. Das Nähere wird durch die Länder geregelt.
 
 ### Artikel 23
-1. Die Lönder können durch Gesetz Hoheitsrechte auf zwischenstaatliche Einrichtungen übertragen.
+1. Die Länder können durch Gesetz Hoheitsrechte auf zwischenstaatliche Einrichtungen übertragen.
 
 ### Artikel 25
 1. Die allgemeinen Regeln des Völkerrechtes sind Bestandteil des Bundesrechtes. Sie gehen den Gesetzen vor und erzeugen Rechte und Pflichten unmittelbar für die Bewohner des Bundesgebietes.
