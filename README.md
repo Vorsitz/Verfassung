@@ -186,15 +186,15 @@ Die Null-Islander in den Ländern Null-Nord, Null-Süd, Null-Ost und Null-West h
 1. Das Parlament wird in einem Vierjahresrythmus durch direkte Wahl von der Wahlberechtigten Bevölkerung gewählt werden.
 2. Das Parlament besteht aus 256 Mitgliedern.
 3. Kandidieren dürfen alle Bürger, die ...
-	a. ... wahlberechtigt sind.
-	b. ... noch nicht straffällig geworden sind.
-	c. ... zum Zeitpunkt der Wahl nicht im Militär tätig sind.
+	- ... wahlberechtigt sind.
+	- ... noch nicht straffällig geworden sind.
+	- ... zum Zeitpunkt der Wahl nicht im Militär tätig sind.
 
 ### Artikel 42
 1. Wahlberechtigt ist, wer ...
-	a. ... das 18. Lebensjahr vollendet hat.
-	b. ... anerkannter Bürger von Null-Island ist.
-	c. ... sich nicht im Strafvollzug befindet.
+	- ... das 18. Lebensjahr vollendet hat.
+	- ... anerkannter Bürger von Null-Island ist.
+	- ... sich nicht im Strafvollzug befindet.
 2. In besonderen Fällen darf das Wahlrecht auf Grund von psychischer Urteilsunfähigkeit aberkannt werden.
 
 ### Artikel 43
@@ -211,9 +211,9 @@ Die Null-Islander in den Ländern Null-Nord, Null-Süd, Null-Ost und Null-West h
 ### Artikel 45
 1. Um eine Bundesweite Volksabstimmung zu veranlassen müssen mindestens 0.2% der Wahlberechtigten Bevölkerung in einer Petition unterschreiben.
 2. Durch eine Volksabstimmung kann die wahlberechtigte Bevölkerung ...
-	a. ... ein Veto gegen einen Gesetzesentwurf einlegen.
-	b. ... das Parlament zur Abstimmung über ein Gesetz zwingen.
-	c. ... neuwahlen aller Organe des Regierungsapparates veranlassen.
+	- ... ein Veto gegen einen Gesetzesentwurf einlegen.
+	- ... das Parlament zur Abstimmung über ein Gesetz zwingen.
+	- ... neuwahlen aller Organe des Regierungsapparates veranlassen.
 
 ### Artikel 46
 1. Eine Direktpetition, bei der mindestens 0.4% der Wahlberechtigten Bevölkerung unterschrieben hat, kann Gesetzesvorschläge direkt in das Parlament bringen.
