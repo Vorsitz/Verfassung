@@ -167,7 +167,7 @@ Die Null-Islander in den Ländern Null-Nord, Null-Süd, Null-Ost und Null-West h
 2. Das Volksdirektorat besteht außer dem Vorsitzenden aus dem Polizeivorsitz, dem Militärvorsitz, dem Vorsitz des Obersten Gerichtes, dem Außenminister, dem Gesundheitsminister, dem Arbeitsminister, dem Wirtschaftsminister, dem Bildungsminister und dem Minister für Sprache.
 
 ### Artikel 38
-1. Die Mitglieder werden in einem Vierjahresrythmus druch Direktwahl von der Wahlberechtigten Bevölkerung, aus dem Parlament, gewählt.
+1. Die Mitglieder werden in einem Vierjahresrythmus durch Direktwahl von der Wahlberechtigten Bevölkerung, aus dem Parlament, gewählt.
 2. Die Ämterverteilung im Volksdirektorat wird in der Ersten Sitzung von den Mitgliedern des Volksdirektorats festgelegt.
 
 ### Artikel 39
