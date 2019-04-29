@@ -1,4 +1,4 @@
-# Verfassung für die Volksgemeinschaft Null-Island
+﻿# Verfassung für die Volksgemeinschaft Null-Island
 ### Eingangsformel
 Der provisorische Rat des Volksdirektorats hat am 29. Februar 1948 in Null-City auf Null-Island in geschlossener Versammlung festgestellt, daß die im Februar des Jahres 1948 vom provisorischen Rat des Volksdirektorats beschlossene Verfassung für die Volksgemeinschaft Null-Island in der Woche vom 1. bis 7. Mai 1947 vom provisorischen Rat des Volksdirektorats mit Beratung von der Volkervertretung angenommen worden ist.
 Auf Grund dieser Feststellung hat der provisorischen Rat des Volksdirektorats, vertreten durch den Direktoratsvorsitzenden, die Verfassung ausgefertigt und in geschlossener Sitzung verkündet.
@@ -27,7 +27,7 @@ Die Null-Islander in den Ländern Null-Nord, Null-Süd, Null-Ost und Null-West h
 ### Artikel 4
 1. Die Freiheit des Glaubens, des Gewissens und die Freiheit des religiösen und weltanschaulichen Bekenntnisses sind unverletzlich.
 2. Die ungestörte Religionsausübung wird gewährleistet.
-3. Niemand darf gegen sein Gewissen zum Kriegsdienst mit der Waffe gezwungen werden. Das Nähere regelt ein Bundesgesetz.
+3. Niemand darf gegen sein Gewissen zum Kriegsdienst mit der Waffe gezwungen werden. Das Nähere regeln Landesgesetze.
 
 ### Artikel 5
 1. Jeder hat das Recht, seine Meinung in Wort, Schrift und Bild frei zu äußern und zu verbreiten und sich aus allgemein zugänglichen Quellen ungehindert zu unterrichten. Die Pressefreiheit und die Freiheit der Berichterstattung durch Rundfunk und Film werden gewährleistet.
@@ -45,7 +45,7 @@ Die Null-Islander in den Ländern Null-Nord, Null-Süd, Null-Ost und Null-West h
 2. Der Religionsunterricht ist in den öffentlichen Schulen ordentliches Lehrfach. Unter dem staatlichen Aufsichtsrecht wird der Religionsunterricht in Übereinstimmung mit den Grundsätzen der Religionsgemeinschaften erteilt.
 
 ### Artikel 9
-1. Alle Deutschen haben das Recht, staatstreue Vereine und Gesellschaften zu bilden.
+1. Alle Null-Islander haben das Recht, staatstreue Vereine und Gesellschaften zu bilden.
 2. Vereinigungen, deren Zwecke oder deren Tätigkeit den Strafgesetzen zuwiderlaufen oder die sich gegen die verfassungsmäßige Ordnung oder gegen den Gedanken der Völkerverständigung richten, sind verboten.
 
 ### Artikel 10
@@ -53,11 +53,11 @@ Die Null-Islander in den Ländern Null-Nord, Null-Süd, Null-Ost und Null-West h
 2. Beschränkungen dürfen nur auf Grund eines Gesetzes angeordnet werden. Dient die Beschränkung dem Schutze der freiheitlichen demokratischen Grundordnung oder des Bestandes oder der Sicherung des Bundes oder eines Landes, so kann das Gesetz bestimmen, daß sie dem Betroffenen nicht mitgeteilt wird und daß an die Stelle des Rechtsweges die Nachprüfung durch von der Volksvertretung bestellte Organe und Hilfsorgane tritt.
 
 ### Artikel 11
-1. Alle Deutschen genießen Freizügigkeit im ganzen Bundesgebiet.
+1. Alle Null-Islander genießen Freizügigkeit im ganzen Bundesgebiet.
 2. Dieses Recht darf nur durch Gesetz oder auf Grund eines Gesetzes und nur für die Fälle eingeschränkt werden, in denen eine ausreichende Lebensgrundlage nicht vorhanden ist und der Allgemeinheit daraus besondere Lasten entstehen würden oder in denen es zur Abwehr einer drohenden Gefahr für den Bestand oder die freiheitliche demokratische Grundordnung des Bundes oder eines Landes, zur Bekämpfung von Seuchengefahr, Naturkatastrophen oder besonders schweren Unglücksfällen, zum Schutze der Jugend vor Verwahrlosung oder um strafbaren Handlungen vorzubeugen, erforderlich ist.
 
 ### Artikel 12
-1. Alle Deutschen haben das Recht, Beruf, Arbeitsplatz und Ausbildungsstätte frei zu wählen. Die Berufsausübung kann durch Gesetz oder auf Grund eines Gesetzes geregelt werden.
+1. Alle Null-Islander  haben das Recht, Beruf, Arbeitsplatz und Ausbildungsstätte frei zu wählen. Die Berufsausübung kann durch Gesetz oder auf Grund eines Gesetzes geregelt werden.
 2. Niemand darf zu einer bestimmten Arbeit gezwungen werden, außer im Rahmen einer herkömmlichen allgemeinen, für alle gleichen öffentlichen Dienstleistungspflicht.
 3. Zwangsarbeit ist nur bei einer gerichtlich angeordneten Freiheitsentziehung zulässig.
 
@@ -98,7 +98,7 @@ Die Null-Islander in den Ländern Null-Nord, Null-Süd, Null-Ost und Null-West h
 2. Die Bundesländer unterliegen ihrer eigenen Kontrolle.
 3. Alle Staatsgewalt geht vom Volke aus. Sie wird vom Volke in Wahlen und Abstimmungen und durch besondere Organe der Gesetzgebung, der vollziehenden Gewalt und der Rechtsprechung ausgeübt.
 4. Die Gesetzgebung ist an die verfassungsmäßige Ordnung, die vollziehende Gewalt und die Rechtsprechung sind an Gesetz und Recht gebunden.
-5. Gegen jeden, der es unternimmt, diese Ordnung zu beseitigen, haben alle Deutschen das Recht zum Widerstand, wenn andere Abhilfe nicht möglich ist.
+5. Gegen jeden, der es unternimmt, diese Ordnung zu beseitigen, haben alle Null-Islander das Recht zum Widerstand, wenn andere Abhilfe nicht möglich ist.
 6. Die Umsetzung dieser Artikel in den einzelnen Bundenländern unterliegt der gesetzgebenden Gewalt der selben.
 
 ### Artikel 20a
